@@ -27,5 +27,6 @@ class InsureMeApplicationTests {
 		assertEquals(null,pService.searchPolicy());
 	}
 
+	//Adding comments
 	
 }
